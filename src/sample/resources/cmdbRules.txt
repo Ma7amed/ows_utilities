@@ -1,0 +1,18 @@
+ruleID	in_ems	in_neType	in_deviceName	out_siteName	out_region	out_office
+1	.*	.*	OSS	OSS	Cairo	Cairo
+2.1	Wireless_U2000	BTS3900 LTE	^LALXA1[0-9]{4}	^LALXA1[0-9]{4}	Alex	Alex_1
+2.2	Wireless_U2000	BTS3900 LTE	^LALXA2[0-9]{4}	^LALXA2[0-9]{4}	Alex	Alex_2
+2.3	Wireless_U2000	BTS3900 LTE	^LALXA3[0-9]{4}	^LALXA3[0-9]{4}	Alex	Alex_3
+2.4	Wireless_U2000	BTS3900 LTE	^LALXN1[0-9]{4}	^LALXN1[0-9]{4}	Alex	Alex_North_Coast_1
+2.5	Wireless_U2000	BTS3900 LTE	^LALXN2[0-9]{4}	^LALXN2[0-9]{4}	Alex	Alex_North_Coast_2
+2.6	Wireless_U2000	BTS3900 LTE	^LALXN3[0-9]{4}	^LALXN3[0-9]{4}	Alex	Alex_North_Coast_3
+2.7	Wireless_U2000	BTS3900 LTE	^LCAIE1[0-9]{4}	^LCAIE1[0-9]{4}	Cairo	East_Cairo_1
+2.8	Wireless_U2000	BTS3900 LTE	^LCAIE2[0-9]{4}	^LCAIE2[0-9]{4}	Cairo	East_Cairo_2
+2.9	Wireless_U2000	BTS3900 LTE	^LCAIE3[0-9]{4}	^LCAIE3[0-9]{4}	Cairo	East_Cairo_3
+2.1	Wireless_U2000	BTS3900 LTE	^LCAIN1[0-9]{4}	^LCAIN1[0-9]{4}	Cairo	New_Cairo_1
+2.10	Wireless_U2000	BTS3900 LTE	^LCAIN2[0-9]{4}	^LCAIN2[0-9]{4}	Cairo	New_Cairo_2
+2.11	Wireless_U2000	BTS3900 LTE	^LCAIN3[0-9]{4}	^LCAIN3[0-9]{4}	Cairo	New_Cairo_3
+2.12	Wireless_U2000	BTS3900 LTE	^LCAIW1[0-9]{4}	^LCAIW1[0-9]{4}	Cairo	West_Cairo_1
+2.13	Wireless_U2000	BTS3900 LTE	^LCAIW2[0-9]{4}	^LCAIW2[0-9]{4}	Cairo	West_Cairo_2
+2.14	Wireless_U2000	BTS3900 LTE	^LCAIW3[0-9]{4}	^LCAIW3[0-9]{4}	Cairo	West_Cairo_3
+3	Wireless_U2000	.*	.*	.*	Cairo	Cairo

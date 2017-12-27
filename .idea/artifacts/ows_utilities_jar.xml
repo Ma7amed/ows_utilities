@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ows_utilities:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ows_utilities_jar</output-path>
+    <root id="archive" name="ows_utilities.jar">
+      <element id="module-output" name="ows_utilities" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Lib/commons-lang3-3.5-bin/commons-lang3-3.5/commons-lang3-3.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../poi.apache.org/poi-bin-3.16-20170419/poi-3.16/lib/commons-collections4-4.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../poi.apache.org/poi-bin-3.16-20170419/poi-3.16/poi-ooxml-3.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../poi.apache.org/poi-bin-3.16-20170419/poi-3.16/poi-3.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Lib/opencsv-3.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../poi.apache.org/poi-bin-3.16-20170419/poi-3.16/poi-ooxml-schemas-3.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../poi.apache.org/poi-bin-3.16-20170419/poi-3.16/ooxml-lib/xmlbeans-2.6.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
